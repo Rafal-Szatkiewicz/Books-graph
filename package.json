@@ -1,0 +1,17 @@
+{
+  "name": "aeefc3163e334fba",
+  "main": "aeefc3163e334fba@399.js",
+  "version": "399.0.0",
+  "homepage": "https://observablehq.com/d/aeefc3163e334fba",
+  "author": {
+    "name": "rafalszWorkspace",
+    "url": "https://observablehq.com/@rafalszworkspace"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  },
+  "dependencies": {
+    "edit-json-file": "^1.7.0"
+  }
+}
