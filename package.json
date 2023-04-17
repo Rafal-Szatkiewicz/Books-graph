@@ -1,17 +1,14 @@
 {
-  "name": "aeefc3163e334fba",
-  "main": "aeefc3163e334fba@399.js",
+  "name": "books-graph",
+  "main": "scripts/index.js",
   "version": "399.0.0",
-  "homepage": "https://observablehq.com/d/aeefc3163e334fba",
+  "homepage": "https://rafal-szatkiewicz.github.io/Books-graph/",
   "author": {
-    "name": "rafalszWorkspace",
-    "url": "https://observablehq.com/@rafalszworkspace"
+    "name": "Rafal Szatkiewicz",
+    "url": "https://rafal-szatkiewicz.github.io/Books-graph/"
   },
   "type": "module",
   "peerDependencies": {
     "@observablehq/runtime": "4 - 5"
-  },
-  "dependencies": {
-    "edit-json-file": "^1.7.0"
   }
 }
