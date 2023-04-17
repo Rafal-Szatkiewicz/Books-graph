@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <meta charset="utf-8">
-    <title>Chart copy</title>
+    <title>Chart</title>
     <link rel="stylesheet" type="text/css" href="./styles/chart.css">
 </head>
 <body>
@@ -24,6 +24,7 @@
         });
     </script>
     <script>
+        document.title = localStorage.getItem("author");
         document.querySelector('button').addEventListener("click", back);
         function back()
         {
