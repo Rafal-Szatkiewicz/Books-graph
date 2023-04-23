@@ -4,4 +4,4 @@ The app provides information about book authors, their creations and genres. It 
 
 Book icon created by Freepik - Flaticon
 
-<a target='_blank' href="https://www.kaggle.com/datasets/mdhamani/goodreads-books-100k">Books dataset></a>
+<a target='_blank' href="https://www.kaggle.com/datasets/mdhamani/goodreads-books-100k">Books dataset</a>
